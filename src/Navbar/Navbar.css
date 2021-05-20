@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.Navigation_block {
+  height: 4rem;
+  background-color: #1a1a1a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.block1 {
+  width: 20rem;
+  display: flex;
+  justify-content: space-around;
+}
+.HomePage {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+.HomePage:hover {
+  color: #00cca3;
+}
+.AboutUs {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+.AboutUs:hover {
+  color: #00cca3;
+}
+.Mylogo {
+  height: 3rem;
+  width: 3rem;
+  margin-right: 2rem;
+}
